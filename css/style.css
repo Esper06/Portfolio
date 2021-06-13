@@ -1,0 +1,32 @@
+#profilePicture {
+    height: 200px;
+    width: 200px;
+}
+
+
+#imageSection {
+    background: #eee;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
+
+#mainWork {
+    /* width: 800px;
+    height: 500px;
+    */
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.work {
+    /* height: 400px;
+    width: 400px;
+    */
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
