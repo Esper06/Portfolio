@@ -1,5 +1,12 @@
 # Portfolio
 
+# Link To Project
+https://esper06.github.io/Portfolio/
+
+# Image Of Project
+<img src="./assets/Portfolio screenshot.jpg" alt="Screenshot of the portfolio">
+
+
 # Description
 
 My motivation for this project was to create a portfolio of my current completed projects, this is so I can update it later on with future projects.
