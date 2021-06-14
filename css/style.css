@@ -12,7 +12,7 @@ body {
 
 /* Class Collection */
 
-.main {
+#main {
     max-width: 1100px;
     margin: auto;
     
