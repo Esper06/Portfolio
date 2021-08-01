@@ -91,7 +91,7 @@ body {
 #pfpContainer {
     position: relative;
     display: inline-block;
-    
+    display: flexbox;
 }
 
 
@@ -106,3 +106,8 @@ body {
      clear: both;
 }
 
+#bio {
+    flex-wrap: wrap;
+    width: 200px;
+    padding-top: 10px;
+}
