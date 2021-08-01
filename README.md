@@ -18,7 +18,7 @@ This project was more challenging than I expected and took a couple of do-overs 
 
 If it's the website you wish to access rather than the source code follow these instructions instead:
 
-1: Copy link provided along with this repository
+1: Copy link provided along with this repository.
 
 # Usage
 
