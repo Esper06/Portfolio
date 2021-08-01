@@ -4,7 +4,7 @@
 https://esper06.github.io/Portfolio/
 
 # Image Of Project
-<img src="./assets/Portfolio screenshot.jpg" alt="Screenshot of the portfolio">
+<img src="./assets/images/Portfolio screenshot.jpg" alt="Screenshot of the portfolio">
 
 
 # Description
